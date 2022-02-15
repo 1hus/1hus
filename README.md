@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1hus
-- 📫 How to reach me ...
+- koheitakata.com
 
 <!---
 1hus/1hus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
