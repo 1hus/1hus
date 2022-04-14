@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1hus
-- koheitakata.com
+- [koheitakata.com](https://koheitakata.com) is my portfolio site (but temporarily closed)
 
 <!---
 1hus/1hus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
