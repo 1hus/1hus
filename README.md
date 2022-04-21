@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @1hus
+
+- me elsewhere
 - [koheitakata.com](https://koheitakata.com) is my portfolio site (but temporarily closed)
 
 <!---
